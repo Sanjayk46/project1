@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    border:1px solid black;
+    background-color: brown;
+    padding-left: 300px;
+    text-align: center;
+    color: white;
+}
+.fontcls{
+    font-style: italic;
+}
+a{
+    color: red;
+}
+.container2{
+display: flex;
+flex-wrap: wrap;
+border:1px solid black;
+background-color:bisque ;
+}
+.container3{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+input{
+    margin: 2px 2px 2px 2px;
+}
+label{
+    font-weight: bold;
+}
+.paddingcls{
+ margin: 10px;
+}
